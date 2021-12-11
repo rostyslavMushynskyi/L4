@@ -1,0 +1,73 @@
+.nav{
+    border-bottom:1px solid darkgrey;
+}
+
+.nav-ul{
+    text-align: center;
+}
+
+.block-li{
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.li{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+
+}
+
+.li-active{
+    color: blue;
+}
+
+.block{
+    height: 50px;
+}
+
+
+.p-Roboto{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
+
+.p-300{
+    color: red;
+    font-weight: 300;
+}
+
+.p-500{
+    color: green;
+    font-weight: 500;
+}
+
+.p-700{
+    color: navy;
+    font-weight: 700;
+}
+
+.p-Dancing-Script{
+    font-family:'Dancing Script', cursive;
+    font-weight: 400;
+    font-size: 16px;       
+}
+
+.plate{
+    height: 100px;
+    width: 100px;
+    margin-right: 5px;
+    display: inline-block;
+}
+
+.p1{
+    background: blue;
+}
+
+.p2{
+    background: green;
+}
+
+.p3{
+    background:burlywood;
+}
